@@ -1,0 +1,10 @@
+﻿namespace Programik
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("XD");
+        }
+    }
+}
